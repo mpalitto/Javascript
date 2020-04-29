@@ -12,3 +12,6 @@ con un web-browser aprire il file **html** (nella barra dell'indirizzo: ``file:/
 
 ## Note
 Il codice contenuto nel file ``memory.html`` e' ampliamente commentato, riferirsi ai commenti per la spiegazione del funzionamento.
+
+## Demo
+https://mpalitto.github.io/memory-game-javascript/

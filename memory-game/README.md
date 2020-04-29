@@ -10,5 +10,5 @@ Inserire in una cartella il file ``memory.html`` e nella sottocartella ``images`
 
 con un web-browser aprire il file **html** (nella barra dell'indirizzo: ``file:///percorso/della/cartella/memory.html``)
 
-##Note
+## Note
 Il codice contenuto nel file ``memory.html`` e' ampliamente commentato, riferirsi ai commenti per la spiegazione del funzionamento.
